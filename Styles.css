@@ -1,0 +1,21 @@
+
+body {
+    background-color: burlywood;
+}
+
+p {
+    font-family: Simula;
+    font-size: 16px;
+    color: red;
+    background-color: orange;
+    text-align: center;
+
+
+    }
+
+h1 {
+    color: blue;
+    font-size: 12px;
+    font-style: italic;
+    margin-bottom: 10px;
+}
